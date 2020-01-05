@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+        <remote fetch="https://github.com/wellinton1" name="wellinton1"/>
+
+        <project name="android_device_motorola_albus" path="device/motorola/albus" remote="wellinton1" revision="lineage-16.0" />
+        <project name="android_kernel_motorola_msm8996" path="kernel/motorola/msm8996" remote="wellinton1" revision="lineage-16.0" />
+        <project name="proprietary_vendor_motorola" path="vendor/motorola" remote="wellinton1" revision="lineage-16.0" />
+
+        <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" />
+
+</manifest>
